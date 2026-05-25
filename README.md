@@ -1,7 +1,8 @@
 # Unity_ShotArrowBallon
 
 사용 엔진 : Unity
-사용 툴 : Unity Hub
+사용 툴 : Unity Hub , Visual Studio
+언어 : C#
 
 활을 쏴서 풍선을 맞추는 게임.
 마우스 클릭 후 드래그의 위치에 따라 활을 당기는 위력이 정해지며 화살이 날라가는 거리가 증가함.
